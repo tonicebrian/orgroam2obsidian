@@ -4,7 +4,6 @@ This is a small script that ports your [Org Roam](https://www.orgroam.com/) note
 
 # Usage
 
-1. Create a folder called input in this repo
-2. Copy all org files of your Org Roam to this folder
+2. Copy all org files of your Org Roam to the `input` folder
 3. Run `poetry run python convert.py` 
 4. Copy contents of `output` in a folder in Obsidian
